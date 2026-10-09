@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PRAK3</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="nama">Antonius</string>
+    <string name="alamat">Kasihan</string>
+    <string name="copy">Copyright, 2026</string>
 </resources>
