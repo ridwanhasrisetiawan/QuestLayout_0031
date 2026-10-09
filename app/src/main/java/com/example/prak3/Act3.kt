@@ -76,10 +76,13 @@ fun AktivitasPertama(modifier: Modifier) {
                     Text(
                         text = "Kasihan",
                         fontSize = 20.sp,
-                        color = Color.Yellow
+                        color = Color.Yellow,
+                        modifier = Modifier.padding(top = 10.dp)
                     )
                 }
             }
         }
-            }
-        }
+        Box(
+            modifier = Modifier
+
+
