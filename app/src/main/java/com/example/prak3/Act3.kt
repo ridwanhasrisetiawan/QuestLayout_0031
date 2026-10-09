@@ -67,14 +67,14 @@ fun AktivitasPertama(modifier: Modifier) {
                 Spacer(modifier = Modifier.width(30.dp))
                 Column {
                     Text(
-                        text = "Bambang Sumantri",
+                        text = "Antonius",
                         fontSize = 30.sp,
                         fontFamily = FontFamily.Cursive,
                         color = Color.White,
                         modifier = Modifier.padding(top = 15.dp)
                     )
                     Text(
-                        text = "Turi, Sleman",
+                        text = "Kasihan",
                         fontSize = 20.sp,
                         color = Color.Yellow
                     )
@@ -83,6 +83,3 @@ fun AktivitasPertama(modifier: Modifier) {
         }
             }
         }
-    }
-    }
-}
