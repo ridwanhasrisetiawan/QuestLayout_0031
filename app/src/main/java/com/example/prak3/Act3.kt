@@ -72,7 +72,17 @@ fun AktivitasPertama(modifier: Modifier) {
                         fontFamily = FontFamily.Cursive,
                         color = Color.White,
                         modifier = Modifier.padding(top = 15.dp)
-
+                    )
+                    Text(
+                        text = "Turi, Sleman",
+                        fontSize = 20.sp,
+                        color = Color.Yellow
+                    )
+                }
+            }
+        }
+            }
+        }
     }
     }
 }
